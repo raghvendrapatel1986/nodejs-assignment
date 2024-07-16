@@ -1,0 +1,29 @@
+[
+    {
+        "file": "A.txt",
+        "numbers": [
+            "154",
+            "161"
+        ]
+    },
+    {
+        "file": "B.txt",
+        "numbers": [
+            "105",
+            "105"
+        ]
+    },
+    {
+        "file": "C.txt",
+        "numbers": [
+            "70"
+        ]
+    },
+    {
+        "file": "D.txt",
+        "numbers": [
+            "NaN",
+            "35"
+        ]
+    }
+]
